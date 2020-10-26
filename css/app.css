@@ -1,0 +1,574 @@
+.navigation {
+	font-family: Roboto;
+	background-color: #E4E4E4;
+	}
+	.reveal{
+	background-color: #F2F1F1;
+	}
+	.reveal .logo{
+	margin: auto;
+	display: flex;
+	padding-bottom: 1rem;
+	padding-top: 1rem;
+	}
+	.reveal .divider{
+	background-color: #E4E4E4;
+	}
+	.reveal .cell{
+	display: flex;
+	}
+	.reveal .menu{
+	margin: auto;
+	font-size: 1.875rem;
+	font-family: Roboto;
+	} 
+	.reveal a {
+	color: #96B46A;
+	height: 100%;
+	font-weight: medium;
+	text-align: center;
+	padding: 1.5rem;
+	}
+	.fa-bars {
+	color: #689429;
+	padding: .5rem;
+	font-size: 2rem
+	}
+
+main
+
+.welcome {
+    font-family: Roboto;
+ 	text-align: center;
+ 	background-color: #F2F1F1;
+	}
+	.welcome img {
+	margin: auto;
+	display: flex;
+	}
+	.welcome h1 {
+	text-align: center;
+	font-size: 1.25rem;
+	font-weight: bold;
+	color: black;
+	}
+	.welcome h2 {
+	text-align: center;
+	font-size: 1.0625rem;
+	color: #9B9B9B;
+	}
+
+.schedule {
+    font-family: Roboto;
+ 	font-size: 6rem;
+ 	text-align: center;
+ 	background-color: #F2F1F1;
+	}
+
+	.container-1 {
+    position: relative;
+  	text-align: center;
+  	color: white;
+	}
+	.centered-1 {
+  	position: absolute;
+  	top: 50%;
+  	left: 50%;
+  	transform: translate(-50%, -50%);
+  	font-size: 1.0625rem;
+  	color: white;
+	}
+	.schedule h2 {
+	font-family: Roboto;
+	font-size: 1.25rem;
+	font-weight: medium;
+	}
+	.schedule h3 {
+	font-size: 1.0625rem;
+	color: #9B9B9B;
+	}
+
+
+.event {
+    font-family: Roboto;
+ 	font-size: 6rem;
+ 	text-align: center;
+ 	background-color: #F2F1F1;
+	}
+
+		.container-2 {
+    	position: relative;
+  		text-align: center;
+  		color: white;
+		}
+		.centered-2 {
+  		position: absolute;
+  		top: 50%;
+  		left: 50%;
+  		transform: translate(-50%, -50%);
+  		font-size: 1.0625rem;
+  		color: white;
+		}
+		.event h2 {
+		font-family: Roboto;
+		font-size: 1.25rem;
+		font-weight: medium;
+		}
+		.event h3 {
+		font-size: 1.0625rem;
+		color: #9B9B9B;
+		}
+
+
+.exhibition {
+    font-family: Roboto;
+ 	font-size: 6rem;
+ 	text-align: center;
+ 	background-color: #F2F1F1;
+}
+
+		.container-3 {
+    	position: relative;
+  		text-align: center;
+  		color: white;
+		}
+		.centered-3 {
+  		position: absolute;
+  		top: 50%;
+  		left: 50%;
+  		transform: translate(-50%, -50%);
+  		font-size: 1.0625rem;
+  		color: white;
+		}
+		.exhibition h2 {
+		font-family: Roboto;
+		font-size: 1.25rem;
+		font-weight: medium;
+		}
+		.exhibition h3 {
+		font-size: 1.0625rem;
+		color: #9B9B9B;
+		}
+
+
+.contact-us {
+    font-family: Roboto;
+ 	text-align: center;
+ 	background-color: #F2F1F1;
+}
+
+		.container-4 {
+    	position: relative;
+  		text-align: center;
+  		color: white;
+		}
+		.centered-4 {
+  		position: absolute;
+  		top: 50%;
+  		left: 50%;
+  		transform: translate(-50%, -50%);
+  		font-size: 1.0625rem;
+  		color: white;
+		}
+		.contact-us h2 {
+		font-family: Roboto;
+		font-size: 1.25rem;
+		font-weight: medium;
+		}
+		.contact-us h3 {
+		font-size: 1.0625rem;
+		color: #9B9B9B;
+		}
+
+/**Events**/
+
+.Events .Image-1{
+	margin: auto;
+	display: block;
+}
+.Events .green-divider{
+	padding-top: 2rem;
+	padding-bottom: 3rem;
+}
+.Events h1{
+	font-family: Roboto;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 2rem;
+}
+
+
+.October-1 .card-divider{
+	background-color: #F2F1F1;
+}
+.October-1 h3{
+	text-align: center;
+	font-size: 1.56rem;
+	font-weight: medium;
+	margin: auto;
+	display: block;
+	background-color: #F2F1F1
+}
+.October-1 .card{
+	margin: auto;
+	display: block;
+	text-align: center;
+	background-color: #F2F1F1;
+}
+.October-1 p{
+	text-align: center;
+	font-size: 1.2rem;
+	font-weight: medium;
+	background-color: #BD801E;
+	color: white;
+	padding: 1rem;
+}
+.October-1 h4{
+	text-align: left;
+	font-size: 1.06rem;
+	background-color: #D1A662;
+	color: white;
+	padding: 0.3rem;
+}
+.October-1 .fa-plus-square{
+	background-color: #D1A662;
+	font-size: 1.5rem;
+	padding: 1rem;
+	color: white;
+}
+.October-1 h5{
+	text-align: right;
+	font-size: 0.875rem;
+	font-weight: light;
+	color: #9B9B9B;
+	padding-top: .3rem;
+	padding-right: 1rem;
+}
+.October-1 h6{
+	text-align: right;
+	font-size: 0.875rem;
+	font-weight: light;
+	color: #9B9B9B;
+	line-height: .3rem;
+	padding-bottom: 3rem;
+	padding-right: 1rem;
+}
+.October-1 .dropdown-pane{
+	background-color: #D1A662;
+	color: white;
+}
+
+.October-2 .card-divider{
+	background-color: #F2F1F1;
+}
+.October-2 h3{
+	text-align: center;
+	font-size: 1.56rem;
+	font-weight: medium;
+	margin: auto;
+	display: block;
+	background-color: #F2F1F1
+}
+.October-2 .card{
+	margin: auto;
+	display: block;
+	text-align: center;
+	background-color: #F2F1F1;
+}
+.October-2 p{
+	text-align: center;
+	font-size: 1.2rem;
+	font-weight: medium;
+	background-color: #689429;
+	color: white;
+	padding: 1rem;
+}
+.October-2 h4{
+	text-align: left;
+	font-size: 1.06rem;
+	background-color: #96B46A;
+	color: white;
+	padding: 0.3rem;
+}
+.October-2 .fa-plus-square{
+	background-color: #96B46A;
+	font-size: 1.5rem;
+	padding-top: .27rem;
+	padding-bottom: .27rem;
+	padding-right: 1rem;
+	padding-left: 1rem;
+	color: white;
+}
+.October-2 h5{
+	text-align: right;
+	font-size: 0.875rem;
+	font-weight: light;
+	color: #9B9B9B;
+	padding-top: .3rem;
+	padding-right: 1rem;
+}
+.October-2 h6{
+	text-align: right;
+	font-size: 0.875rem;
+	font-weight: light;
+	color: #9B9B9B;
+	line-height: .3rem;
+	padding-bottom: 3rem;
+	padding-right: 1rem;
+}
+.October-2 .dropdown-pane{
+	background-color: #96B46A;
+	color: white;
+}
+
+
+.October-3 .card-divider{
+	background-color: #F2F1F1;
+}
+.October-3 h3{
+	text-align: center;
+	font-size: 1.56rem;
+	font-weight: medium;
+	margin: auto;
+	display: block;
+	background-color: #F2F1F1
+}
+.October-3 .card{
+	margin: auto;
+	display: block;
+	text-align: center;
+	background-color: #F2F1F1;
+}
+.October-3 p{
+	text-align: center;
+	font-size: 1.2rem;
+	font-weight: medium;
+	background-color: #BD801E;
+	color: white;
+	padding: 1rem;
+}
+.October-3 h4{
+	text-align: left;
+	font-size: 1.06rem;
+	background-color: #D1A662;
+	color: white;
+	padding: 0.3rem;
+}
+.October-3 .fa-plus-square{
+	background-color: #D1A662;
+	font-size: 1.5rem;
+	padding-top: .27rem;
+	padding-bottom: .27rem;
+	padding-left: 1rem;
+	padding-right: 1rem;
+	color: white;
+}
+.October-3 h5{
+	text-align: right;
+	font-size: 0.875rem;
+	font-weight: light;
+	color: #9B9B9B;
+	padding-top: .3rem;
+	padding-right: 1rem;
+}
+.October-3 h6{
+	text-align: right;
+	font-size: 0.875rem;
+	font-weight: light;
+	color: #9B9B9B;
+	line-height: .3rem;
+	padding-bottom: 3rem;
+	padding-right: 1rem;
+}
+.October-3 .dropdown-pane{
+	background-color: #D1A662;
+	color: white;
+}
+
+
+/**Schedule**/
+
+.Schedule .Image-1{
+	margin: auto;
+	display: block;
+}
+.Schedule .orange-divider{
+	padding-top: 2rem;
+	padding-bottom: 3rem;
+}
+.Schedule h1{
+	font-family: Roboto;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 2rem;
+}
+
+
+.Tours .card-divider{
+	background-color: #F2F1F1;
+}
+.Tours h3{
+	text-align: center;
+	font-size: 1.56rem;
+	font-weight: medium;
+	margin: auto;
+	display: block;
+	background-color: #F2F1F1;
+}
+.Tours .card{
+	margin: auto;
+	display: block;
+	text-align: center;
+	background-color: #F2F1F1;
+}
+.Tours p{
+	text-align: center;
+	font-size: 1.2rem;
+	font-weight: medium;
+	background-color: #689429;
+	color: white;
+	padding: 1rem;
+}
+
+
+.Admission .card-divider{
+	background-color: #F2F1F1;
+}
+.Admission h3{
+	text-align: center;
+	font-size: 1.56rem;
+	font-weight: medium;
+	margin: auto;
+	display: block;
+	background-color: #F2F1F1
+}
+.Admission .card{
+	margin: auto;
+	display: block;
+	text-align: center;
+	background-color: #F2F1F1;
+}
+.Admission p{
+	text-align: center;
+	font-size: 1.2rem;
+	font-weight: medium;
+	background-color: #689429;
+	color: white;
+	padding: 1rem;
+}
+
+
+.Private-tours .card-divider{
+	background-color: #F2F1F1;
+}
+.Private-tours h3{
+	text-align: center;
+	font-size: 1.56rem;
+	font-weight: medium;
+	margin: auto;
+	display: block;
+	background-color: #F2F1F1
+}
+.Private-tours .card{
+	margin: auto;
+	display: block;
+	text-align: center;
+	background-color: #F2F1F1;
+}
+.Private-tours p{
+	text-align: center;
+	font-size: 1.2rem;
+	font-weight: medium;
+	background-color: #BD801E;
+	color: white;
+	padding: 1rem;
+}
+	.container-2 {
+    position: relative;
+  	text-align: center;
+  	color: white;
+	}
+	.centered-2 {
+  	position: absolute;
+  	top: 50%;
+  	left: 50%;
+  	transform: translate(-50%, -50%);
+  	font-size: 1.0625rem;
+  	color: white;
+	}
+
+
+.Hours .card-divider{
+	background-color: #F2F1F1;
+}
+.Hours h3{
+	text-align: center;
+	font-size: 1.56rem;
+	font-weight: medium;
+	margin: auto;
+	display: block;
+	background-color: #F2F1F1
+}
+.Hours .card{
+	margin: auto;
+	display: block;
+	text-align: center;
+	background-color: #F2F1F1;
+}
+.Hours p{
+	text-align: center;
+	font-size: 1.2rem;
+	font-weight: medium;
+	background-color: #BD801E;
+	color: white;
+	padding: 1rem;
+}
+
+
+.Print .card-divider{
+	background-color: #F2F1F1;
+}
+.Print h3{
+	text-align: center;
+	font-size: 1.56rem;
+	font-weight: medium;
+	margin: auto;
+	display: block;
+	background-color: #F2F1F1
+}
+.Print .card{
+	margin: auto;
+	display: block;
+	text-align: center;
+	background-color: #F2F1F1;
+}
+.Print p{
+	text-align: center;
+	font-size: 1.2rem;
+	font-weight: medium;
+	background-color: #689429;
+	color: white;
+	padding: 1rem;
+}
+
+/** Bottom **/
+
+.Bottom .fab{
+	 color: #BD801E;
+	 text-align: center;
+	 padding-left: 2rem;
+}
+.Bottom .far{
+	color: #BD801E;
+	padding-left: 2rem;
+}
+
+.Bottom p{
+	font-size: .375rem;
+	color: #96B46A;
+	background-color: #F2F1F1;
+	margin: .01rem;
+}
+.Bottom .grid-container{
+	background-color: #F2F1F1;
+}

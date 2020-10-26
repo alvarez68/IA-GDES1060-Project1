@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="70" viewBox="0 0 32 70">
+  <g id="Arrow" transform="translate(-297 -321)">
+    <rect id="Rectangle_68" data-name="Rectangle 68" width="32" height="70" transform="translate(297 321)" fill="#96b46a"/>
+    <line id="Line_53" data-name="Line 53" x1="13" y2="13" transform="translate(319.5 369.5) rotate(180)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="3"/>
+    <line id="Line_54" data-name="Line 54" x1="13" y1="13" transform="translate(319.5 356.5) rotate(180)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="3"/>
+  </g>
+</svg>

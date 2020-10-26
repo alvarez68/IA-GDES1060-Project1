@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="24" viewBox="0 0 360 24">
+  <g id="App_bar_1._Top_A._Standard_a._Flat" data-name="App bar / 1. Top /A. Standard/a. Flat" transform="translate(-60 -290)">
+    <g id="ΩElements_System_bar_Primary" data-name="ΩElements/System bar/Primary" transform="translate(60 290)">
+      <rect id="Rectangle" width="360" height="24"/>
+      <path id="Mask" d="M34,0H46L40,10ZM18,5a5,5,0,1,1,5,5A5,5,0,0,1,18,5ZM0,10V0H10V10Z" transform="translate(306 7)" fill="rgba(255,255,255,0.38)"/>
+    </g>
+  </g>
+</svg>
